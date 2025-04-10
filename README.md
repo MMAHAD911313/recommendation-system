@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System 🚀
+# 🚀 Recommendation System 🚀
 
 Welcome to the  **Movie Recommendation System** ! 🎥✨
 
